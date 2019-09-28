@@ -1,0 +1,9 @@
+c:\users\nakas\documents\visual studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\bin\Debug\WindowsForms_グラフ.exe.config
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\bin\Debug\WindowsForms_グラフ.exe
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\bin\Debug\WindowsForms_グラフ.pdb
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.csprojResolveAssemblyReference.cache
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.Form1.resources
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.Properties.Resources.resources
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.csproj.GenerateResource.Cache
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.exe
+C:\Users\nakas\Documents\Visual Studio 2015\Projects\WindowsForms_グラフ\WindowsForms_グラフ\obj\Debug\WindowsForms_グラフ.pdb
